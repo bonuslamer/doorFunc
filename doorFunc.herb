@@ -1,0 +1,5 @@
+// door.herb in yoidog/herbSamples/Samples but with function
+func door(a) { if (a == "knock") { write "You knocked the door, someone answered the door.";} if (a == "ringdoorbell") { write "You rang the doorbell, someone answered the door.";}
+
+door("knock");
+ 
